@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit Kumar
 - 👀 I am extremely enthusiastic about programming ,with a quest and zeal to learn new technology 
 - 🌱 I’m currently learning Aws Data Analytics and java 8 new concepts
-- 💞️ I’m looking to collaborate with the organisation who is looking for a candidate who is a full stack web developer and specialized in skills like  java, MySQL, spring-boot, Restful web services, Data Structure and Algorithm, python, C#, Dot Net MVC , HTML, CSS, JavaScript.
+- 💞️ I’m looking to collaborate with the organisation which is looking for a candidate who is a full stack web developer and specialized in skills like  java, MySQL, spring-boot, Restful web services, Data Structure and Algorithm, python, C#, Dot Net MVC , HTML, CSS, JavaScript.
 - 📫 You can reach out to me on Email:kumarmohit985@gmail.com, Mobile Numer: 8660735732
 
 
